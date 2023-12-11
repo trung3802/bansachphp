@@ -8,7 +8,8 @@ $conn = connectToDatabase();
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Xử lý dữ liệu đầu vào
     $username = mysqli_real_escape_string($conn, $_POST['username']);
-    $password = password_hash($_POST['password'], PASSWORD_DEFAULT); // Băm mật khẩu
+    // $password = password_hash($_POST['password'], PASSWORD_DEFAULT); // Băm mật khẩu
+    $password = mysqli_real_escape_string($conn, $_POST['password']);
     $full_name = mysqli_real_escape_string($conn, $_POST['name']);
     $phone_number = mysqli_real_escape_string($conn, $_POST['phone']);
     $email = mysqli_real_escape_string($conn, $_POST['email']);

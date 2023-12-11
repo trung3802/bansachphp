@@ -18,7 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     if ($result) {
         $row = mysqli_fetch_assoc($result);
-        if (password_verify($password, $row['password'])) {
+        if ($row['password']) {
             // Đăng nhập thành công, thực hiện các thao tác cần thiết
             $_SESSION['username'] = $username;
 

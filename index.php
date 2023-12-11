@@ -319,7 +319,7 @@ https://templatemo.com/tm-590-topic-listing
                                     <div class="row">
                                         <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-3">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a href="topics-detail.php">
+                                                    <a href="sell-topic.php">
                                                         <div class="d-flex">
                                                             <div>
                                                                 <h5 class="mb-2">Mất gốc</h5>
@@ -337,7 +337,7 @@ https://templatemo.com/tm-590-topic-listing
 
                                             <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-3">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a href="topics-detail.php">
+                                                    <a href="sell-topic.php">
                                                         <div class="d-flex">
                                                             <div>
                                                                 <h5 class="mb-2">Có nền tảng</h5>
@@ -355,7 +355,7 @@ https://templatemo.com/tm-590-topic-listing
 
                                             <div class="col-lg-4 col-md-6 col-12">
                                                 <div class="custom-block bg-white shadow-lg">
-                                                    <a href="topics-detail.php">
+                                                    <a href="sell-topic.php">
                                                         <div class="d-flex">
                                                             <div>
                                                                 <h5 class="mb-2">Nền tảng tốt</h5>
@@ -440,7 +440,7 @@ https://templatemo.com/tm-590-topic-listing
                                     <div class="row">
                                         <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-3">
                                             <div class="custom-block bg-white shadow-lg">
-                                                <a href="topics-detail.php">
+                                                <a href="sell-topic.php">
                                                     <div class="d-flex">
                                                         <div>
                                                             <h5 class="mb-2">Căn bản</h5>
@@ -458,7 +458,7 @@ https://templatemo.com/tm-590-topic-listing
 
                                         <div class="col-lg-4 col-md-6 col-12 mb-4 mb-lg-3">
                                             <div class="custom-block bg-white shadow-lg">
-                                                <a href="topics-detail.php">
+                                                <a href="sell-topic.php">
                                                     <div class="d-flex">
                                                         <div>
                                                             <h5 class="mb-2">Trung bình</h5>
@@ -476,7 +476,7 @@ https://templatemo.com/tm-590-topic-listing
 
                                         <div class="col-lg-4 col-md-6 col-12">
                                             <div class="custom-block bg-white shadow-lg">
-                                                <a href="topics-detail.php">
+                                                <a href="sell-topic.php">
                                                     <div class="d-flex">
                                                         <div>
                                                             <h5 class="mb-2">Khá</h5>
